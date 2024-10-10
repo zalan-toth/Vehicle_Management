@@ -1,0 +1,54 @@
+<object-stream>
+  <map>
+    <entry>
+      <string>selected_language</string>
+      <utils.lang.LangData>
+        <ID>0</ID>
+        <title>Selected language</title>
+        <details>Pirate</details>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>lang3</string>
+      <utils.lang.LangData>
+        <ID>-1</ID>
+        <details>Polish</details>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>lang2</string>
+      <utils.lang.LangData>
+        <ID>-1</ID>
+        <details>Pirate</details>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>default_language</string>
+      <utils.lang.LangData>
+        <ID>0</ID>
+        <title>Default language</title>
+        <details>Pirate</details>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>langSize</string>
+      <utils.lang.LangData>
+        <ID>4</ID>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>lang1</string>
+      <utils.lang.LangData>
+        <ID>-1</ID>
+        <details>Hungarian</details>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>lang0</string>
+      <utils.lang.LangData>
+        <ID>-1</ID>
+        <details>English</details>
+      </utils.lang.LangData>
+    </entry>
+  </map>
+</object-stream>

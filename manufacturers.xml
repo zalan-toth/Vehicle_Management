@@ -1,0 +1,8 @@
+<object-stream>
+  <list>
+    <models.Manufacturer>
+      <manufacturerName>Skoda</manufacturerName>
+      <numEmployees>7765</numEmployees>
+    </models.Manufacturer>
+  </list>
+</object-stream>

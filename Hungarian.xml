@@ -1,0 +1,40 @@
+<object-stream>
+  <map>
+    <entry>
+      <string>back_to_main_menu</string>
+      <utils.lang.LangData>
+        <ID>4</ID>
+        <title>back_to_main_menu</title>
+        <details>back_to_main_menu</details>
+        <translation>Vissza a főmenübe</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>language_loaded</string>
+      <utils.lang.LangData>
+        <ID>5</ID>
+        <title>Language loaded</title>
+        <details>Language loaded</details>
+        <translation>Nyelv betöltve! ✓</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>enter_to_continue</string>
+      <utils.lang.LangData>
+        <ID>4</ID>
+        <title>enter_to_continue</title>
+        <details>enter_to_continue</details>
+        <translation>Nyomd le az entert a folytatáshoz...&gt;&gt;</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>add_translation</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>add_translation</title>
+        <details>add_translation</details>
+        <translation>Fordítás hozzáadása</translation>
+      </utils.lang.LangData>
+    </entry>
+  </map>
+</object-stream>

@@ -1,0 +1,38 @@
+<object-stream>
+  <map>
+    <entry>
+      <string>test2</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>Cím</title>
+        <details>adatok</details>
+        <translation>fordítás</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>selected_language</string>
+      <utils.lang.LangData>
+        <ID>0</ID>
+        <title>Selected language</title>
+        <details>en</details>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>default_language</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>Default language</title>
+        <details>en</details>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>test1</string>
+      <utils.lang.LangData>
+        <ID>0</ID>
+        <title>Cím</title>
+        <details>adatok</details>
+        <translation>fordítás</translation>
+      </utils.lang.LangData>
+    </entry>
+  </map>
+</object-stream>

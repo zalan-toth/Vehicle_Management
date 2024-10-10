@@ -1,0 +1,481 @@
+<object-stream>
+  <map>
+    <entry>
+      <string>translation_ID</string>
+      <utils.lang.LangData>
+        <ID>4</ID>
+        <title>translation_ID</title>
+        <details>translation_ID</details>
+        <translation>ID for translation: </translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>translation_coloring_ID</string>
+      <utils.lang.LangData>
+        <ID>4</ID>
+        <title>translation_coloring_ID</title>
+        <details>translation_coloring_ID</details>
+        <translation>Coloring ID: </translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>menu_exit</string>
+      <utils.lang.LangData>
+        <ID>4</ID>
+        <title>exit</title>
+        <details>exit</details>
+        <translation>Exit</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>menu_delete_vehicle</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>menu_delete_vehicle</title>
+        <details>menu_delete_vehicle</details>
+        <translation>Delete Vehicle</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>menu_vehicle_reports_list_electrics</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>menu_vehicle_reports_list_electrics</title>
+        <details>menu_vehicle_reports_list_electrics</details>
+        <translation>List all electric cars</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>menu_language_settings</string>
+      <utils.lang.LangData>
+        <ID>4</ID>
+        <title>menu_language_settings</title>
+        <details>menu_language_settings</details>
+        <translation>Language settings</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>menu_vehicle_store_crud</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>menu_vehicle_store_crud</title>
+        <details>menu_vehicle_store_crud</details>
+        <translation>Vehicle Store CRUD</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>menu_list_vehicles</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>menu_list_vehicles</title>
+        <details>menu_list_vehicles</details>
+        <translation>List Vehicles</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>menu_title</string>
+      <utils.lang.LangData>
+        <ID>7</ID>
+        <title>Menu title</title>
+        <details>Menu title</details>
+        <translation>Vehicle Store</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>exiting</string>
+      <utils.lang.LangData>
+        <ID>4</ID>
+        <title>exiting</title>
+        <details>exiting</details>
+        <translation>Exiting, bye!</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>menu_vehicle_store_title</string>
+      <utils.lang.LangData>
+        <ID>7</ID>
+        <title>menu_vehicle_store_title</title>
+        <details>menu_vehicle_store_title</details>
+        <translation>Vehicle Store MENU</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>menu_reports_title</string>
+      <utils.lang.LangData>
+        <ID>7</ID>
+        <title>menu_reports_title</title>
+        <details>menu_reports_title</details>
+        <translation>Reports MENU</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>menu_save</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>menu_save</title>
+        <details>menu_save</details>
+        <translation>Save All</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>menu_vehicle_reports_list_all</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>menu_vehicle_reports_list_all</title>
+        <details>menu_vehicle_reports_list_all</details>
+        <translation>List all vehicles</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>change_language</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>change_language</title>
+        <details>change_language</details>
+        <translation>Change language</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>change_default_language</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>change_default_language</title>
+        <details>change_default_language</details>
+        <translation>Change default language</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>menu_vehicle_reports_title</string>
+      <utils.lang.LangData>
+        <ID>7</ID>
+        <title>menu_vehicle_reports_title</title>
+        <details>menu_vehicle_reports_title</details>
+        <translation>Vehicle Reports MENU</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>menu_manufacturer_crud</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>menu_manufacturer_crud</title>
+        <details>menu_manufacturer_crud</details>
+        <translation>Manufacturer CRUD</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>0</string>
+      <utils.lang.LangData>
+        <ID>0</ID>
+        <title>0</title>
+        <details>0</details>
+        <translation>0</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>menu_sort_vehicles</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>menu_sort_vehicles</title>
+        <details>menu_sort_vehicles</details>
+        <translation>Sort vehicles</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>menu_update_vehicle</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>menu_update_vehicle</title>
+        <details>menu_update_vehicle</details>
+        <translation>Update Vehicle</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>menu_vehicle_reports_list_carbons</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>menu_vehicle_reports_list_carbons</title>
+        <details>menu_vehicle_reports_list_carbons</details>
+        <translation>List all carbon fueled cars</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>invalid_option</string>
+      <utils.lang.LangData>
+        <ID>2</ID>
+        <title>invalid_option</title>
+        <details>invalid_option</details>
+        <translation>Invalid option entered:</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>add_translation</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>add_translation</title>
+        <details>add_translation</details>
+        <translation>Add translation</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>returning_to_main_menu</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>returning_to_main_menu</title>
+        <details>returning_to_main_menu</details>
+        <translation>Returning to main menu</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>menu_sorting_by_cost</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>menu_sorting_by_cost</title>
+        <details>menu_sorting_by_cost</details>
+        <translation>Sort by cost - descending</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>add_language</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>add_language</title>
+        <details>add_language</details>
+        <translation>Add language</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>menu_load</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>menu_load</title>
+        <details>menu_load</details>
+        <translation>Load All</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>menu_search_vehicles</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>menu_search_vehicles</title>
+        <details>menu_search_vehicles</details>
+        <translation>Search vehicles</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>list_languages</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>list_languages</title>
+        <details>list_languages</details>
+        <translation>List languages</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>lang_menu_title</string>
+      <utils.lang.LangData>
+        <ID>7</ID>
+        <title>lang_menu_title</title>
+        <details>lang_menu_title</details>
+        <translation>Language settings</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>lang_get_default</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>lang_get_default</title>
+        <details>lang_get_default</details>
+        <translation>Default language: </translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>menu_sorting_by_carbon_footprint</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>menu_sorting_by_carbon_footprint</title>
+        <details>menu_sorting_by_carbon_footprint</details>
+        <translation>Sort by carbon footprint - ascending</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>language_not_found</string>
+      <utils.lang.LangData>
+        <ID>2</ID>
+        <title>language_not_found</title>
+        <details>language_not_found</details>
+        <translation>Language not found.</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>menu_vehicle_reports_list_carbons_by_fueltype</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>menu_vehicle_reports_list_carbons_by_fueltype</title>
+        <details>menu_vehicle_reports_list_carbons_by_fueltype</details>
+        <translation>List carbon fueled cars by fuel type</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>back_to_main_menu</string>
+      <utils.lang.LangData>
+        <ID>4</ID>
+        <title>back_to_main_menu</title>
+        <details>back_to_main_menu</details>
+        <translation>Back to the main menu</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>language_loaded</string>
+      <utils.lang.LangData>
+        <ID>5</ID>
+        <title>Language loaded</title>
+        <details>Language loaded</details>
+        <translation>Language loaded! ✓</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>menu_reports_vehicles</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>menu_reports_vehicles</title>
+        <details>menu_reports_vehicles</details>
+        <translation>Vehicles Overview</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>menu_vehicle_reports_list_after_given_year</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>menu_vehicle_reports_list_after_given_year</title>
+        <details>menu_vehicle_reports_list_after_given_year</details>
+        <translation>List vehicles above given year</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>menu_reports</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>menu_reports</title>
+        <details>menu_reports</details>
+        <translation>Reports MENU</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>menu_vehicle_reports_list_scooters</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>menu_vehicle_reports_list_scooters</title>
+        <details>menu_vehicle_reports_list_scooters</details>
+        <translation>List all scooters</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>menu_add_vehicle</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>menu_add_vehicle</title>
+        <details>menu_add_vehicle</details>
+        <translation>Add Vehicle</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>menu_vehicle_reports_list_in_given_year</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>menu_vehicle_reports_list_in_given_year</title>
+        <details>menu_vehicle_reports_list_in_given_year</details>
+        <translation>List vehicles with given year</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>lang_get_selected</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>lang_get_selected</title>
+        <details>lang_get_selected</details>
+        <translation>Selected language: </translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>menu_sorting_by_age</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>menu_sorting_by_age</title>
+        <details>menu_sorting_by_age</details>
+        <translation>Sort by age - ascending</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>menu_reports_manufacturers</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>menu_reports_manufacturers</title>
+        <details>menu_reports_manufacturers</details>
+        <translation>Manufacturers Overview</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>menu_vehicle_reports_top_carbon_vehicles</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>menu_vehicle_reports_top_carbon_vehicles</title>
+        <details>menu_vehicle_reports_top_carbon_vehicles</details>
+        <translation>List TOP 5 environment friendly vehicles</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>menu_sorting_title</string>
+      <utils.lang.LangData>
+        <ID>7</ID>
+        <title>menu_sorting_title</title>
+        <details>menu_sorting_title</details>
+        <translation>Sorting MENU</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>enter_to_continue</string>
+      <utils.lang.LangData>
+        <ID>4</ID>
+        <title>enter_to_continue</title>
+        <details>enter_to_continue</details>
+        <translation>Press enter to continue...&gt;&gt;</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>translation</string>
+      <utils.lang.LangData>
+        <ID>4</ID>
+        <title>translation</title>
+        <details>translation</details>
+        <translation>Translation: </translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>change_language_message</string>
+      <utils.lang.LangData>
+        <ID>4</ID>
+        <title>change_language_message</title>
+        <details>change_language_message</details>
+        <translation>Type in the new language: </translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>menu_search_manufacturers</string>
+      <utils.lang.LangData>
+        <ID>1</ID>
+        <title>menu_search_manufacturers</title>
+        <details>menu_search_manufacturers</details>
+        <translation>Search manufacturers</translation>
+      </utils.lang.LangData>
+    </entry>
+    <entry>
+      <string>new_language</string>
+      <utils.lang.LangData>
+        <ID>4</ID>
+        <title>new_language</title>
+        <details>new_language</details>
+        <translation>New language name:</translation>
+      </utils.lang.LangData>
+    </entry>
+  </map>
+</object-stream>
